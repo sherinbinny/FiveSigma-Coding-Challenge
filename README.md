@@ -18,3 +18,8 @@ Pay attention to user experience and design aesthetics.
 Test your components thoroughly to ensure they function correctly.
 Feel free to use any additional libraries or tools you find appropriate.
 If you have any questions, feel free to reach out for clarification. Good luck!
+
+### Submission Guidelines
+1. Fork this repo (feel free to use github if you prefer).
+2. Write your code.
+3. Send FiveSigma the url to your forked repo.
