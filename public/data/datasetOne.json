@@ -1,0 +1,98 @@
+{
+    "status_code": 200,
+    "success": true,
+    "result": [
+        {
+            "originationPartner": "ZooBank",
+            "originalBalance": 1456922,
+            "month": "January"
+        },
+        {
+            "originationPartner": "CreditDog",
+            "originalBalance": 550000,
+            "month": "January"
+        },
+        {
+            "originationPartner": "MoneyTree",
+            "originalBalance": 12000,
+            "month": "January"
+        },
+        {
+            "originationPartner": "ZooBank",
+            "originalBalance": 1567811,
+            "month": "February"
+        },
+        {
+            "originationPartner": "MoneyTree",
+            "originalBalance": 75000,
+            "month": "February"
+        },
+        {
+            "originationPartner": "CreditDog",
+            "originalBalance": 210000,
+            "month": "February"
+        },
+        {
+            "originationPartner": "MoneyTree",
+            "originalBalance": 100000,
+            "month": "March"
+        },
+        {
+            "originationPartner": "ZooBank",
+            "originalBalance": 1753912,
+            "month": "March"
+        },
+        {
+            "originationPartner": "CreditDog",
+            "originalBalance": 450000,
+            "month": "March"
+        },
+        {
+            "originationPartner": "MoneyTree",
+            "originalBalance": 110000,
+            "month": "April"
+        },
+        {
+            "originationPartner": "ZooBank",
+            "originalBalance": 1354922,
+            "month": "April"
+        },
+        {
+            "originationPartner": "CreditDog",
+            "originalBalance": 500000,
+            "month": "April"
+        },
+        {
+            "originationPartner": "MoneyTree",
+            "originalBalance": 95000,
+            "month": "May"
+        },
+        {
+            "originationPartner": "ZooBank",
+            "originalBalance": 1156922,
+            "month": "May"
+        },
+        {
+            "originationPartner": "CreditDog",
+            "originalBalance": 430000,
+            "month": "May"
+        },
+        {
+            "originationPartner": "MoneyTree",
+            "originalBalance": 130000,
+            "month": "June"
+        },
+        {
+            "originationPartner": "ZooBank",
+            "originalBalance": 1356452,
+            "month": "June"
+        },
+        {
+            "originationPartner": "CreditDog",
+            "originalBalance": 75000,
+            "month": "June"
+        }
+    ]
+
+}
+    

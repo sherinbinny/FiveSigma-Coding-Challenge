@@ -1,0 +1,35 @@
+{
+    "status_code": 200,
+    "success": true,
+    "result": [
+        {
+            "region": "London",
+            "current_interest_rate": 5.332
+        },
+        {
+            "region": "Manchester",
+            "current_interest_rate": 5.132
+        },
+        {
+            "region": "Edinburgh",
+            "current_interest_rate": 5.120
+        },
+        {
+            "region": "Devon",
+            "current_interest_rate": 5.000
+        },
+        {
+            "region": "Oxfordshire",
+            "current_interest_rate": 4.991
+        },
+        {
+            "region": "Sussex",
+            "current_interest_rate": 5.120
+        },
+        {
+            "region": "Newcastle",
+            "current_interest_rate": 5.650
+        }
+    ]
+
+}
