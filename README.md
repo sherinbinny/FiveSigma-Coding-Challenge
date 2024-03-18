@@ -21,5 +21,6 @@ If you have any questions, feel free to reach out for clarification. Good luck!
 
 ### Submission Guidelines
 1. Fork this repo (feel free to use github if you prefer).
-2. Write your code.
-3. Send FiveSigma the url to your forked repo.
+1. Make your forked repo private.
+1. Write your code.
+1. When you're ready to submit, let FiveSigma know and we can give you a list of people to add to your repo for review.
