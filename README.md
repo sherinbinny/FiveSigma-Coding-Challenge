@@ -134,7 +134,7 @@ This chart displays the current interest rates by region for each origination pa
 
 **Route:** `/interestRateChart`
 
-![Interest Rate Chart](./Screenshots/chart-one.png)
+![Interest Rate Chart](./Screenshots/chart-two.png)
 
 ## Error Handling
 
