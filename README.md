@@ -104,7 +104,7 @@ This table visualizes the original balance over time for different origination p
 
 **Route:** `/balanceTable`
 
-![Original Balance Table](./screenshots/table-one.png)
+![Original Balance Table](./Screenshots/table-one.png)
 
 ### 2. **Chart Showing Original Balance Over Time**
 
@@ -114,7 +114,7 @@ This chart displays the `originalBalance` over time for different origination pa
 
 **Route:** `/balanceChart`
 
-![Original Balance Chart](./screenshots/chart-one.png)
+![Original Balance Chart](./Screenshots/chart-one.png)
 
 ### 3. **Table Showing Current Interest Rate by Region**
 
@@ -124,7 +124,7 @@ This table shows the current interest rate by region for different origination p
 
 **Route:** `/interestRateTable`
 
-![Interest Rate Table](./screenshots/table-two.png)
+![Interest Rate Table](./Screenshots/table-two.png)
 
 ### 4. **Chart Showing Current Interest Rate by Region**
 
@@ -134,7 +134,7 @@ This chart displays the current interest rates by region for each origination pa
 
 **Route:** `/interestRateChart`
 
-![Interest Rate Chart](./screenshots/chart-one.png)
+![Interest Rate Chart](./Screenshots/chart-two.png)
 
 ## Error Handling
 
