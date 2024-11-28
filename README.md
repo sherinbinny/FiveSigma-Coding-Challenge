@@ -20,6 +20,9 @@ The challenge consists of the following tasks:
 4. **Create a Chart Showing the Current Interest Rate by Region**
    - A line chart displaying the current interest rate by region for different origination partners (`ZooBank`, `CreditDog`, `MoneyTree`).
 
+
+![Homepage](./Screenshots/home-page.png)
+
 ## Technologies Used
 
 - **React**: JavaScript library for building user interfaces.
