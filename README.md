@@ -18,7 +18,7 @@ The challenge consists of the following tasks:
    - A table showing the current interest rate by region (dataset: `DatasetTwo`).
 
 4. **Create a Chart Showing the Current Interest Rate by Region**
-   - A line chart displaying the current interest rate by region for each origination partner.
+   - A line chart displaying the current interest rate by region for different origination partners (`ZooBank`, `CreditDog`, `MoneyTree`).
 
 ## Technologies Used
 
