@@ -1,13 +1,13 @@
-interface Dataset {
+export interface Dataset {
     originationPartner: 'ZooBank' | 'CreditDog' | 'MoneyTree'
 }
 
-interface DatasetOne extends Dataset {
+export interface DatasetOne extends Dataset {
     originalBalance: number
     month: string
 }
 
-interface DatasetTwo extends Dataset {
+export interface DatasetTwo extends Dataset {
     interestRate: number
     region: 'Manchester' | 'Surrey' | 'London' | 'Devon' | 'Newcastle' | 'Sussex' | 'Oxfordshire' | 'Edinburgh'
 }
