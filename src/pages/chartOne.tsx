@@ -1,5 +1,10 @@
 import { Typography, Box } from "@mui/material"
-import { PageProps } from "../App" 
+import { Line } from 'react-chartjs-2';
+import { Chart as ChartJS, CategoryScale, LinearScale, LineElement, PointElement, Title, Tooltip, Legend } from 'chart.js';
+import { PageProps } from "../App"
+
+ChartJS.register(CategoryScale, LinearScale, LineElement, PointElement, Title, Tooltip, Legend);
+
 
 const ChartOne = ({data}: PageProps) => 
     <Box
