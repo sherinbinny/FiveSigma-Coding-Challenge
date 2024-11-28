@@ -8,7 +8,7 @@ ChartJS.register(CategoryScale, LinearScale, LineElement, PointElement, Title, T
 
 const ChartOne = ({data}: PageProps) => 
 {
-  if (!data) return <div>Loading...</div>;
+  if (!data) return <div>Please wait, loading...</div>;
 
   if (Array.isArray(data) && data.length > 0 && 'month' in data[0]) {
     const datasetOne = data as DatasetOne[];

@@ -6,7 +6,7 @@ import { PageProps } from "../App";
 ChartJS.register(CategoryScale, LinearScale, BarElement, Title, Tooltip, Legend);
 
 const ChartTwo = ({ data }: PageProps) => {
-  if (!data) return <div>Loading...</div>;
+  if (!data) return <div>Please wait, loading...</div>;
 
   if (Array.isArray(data) && data.length > 0 && 'region' in data[0]) {
     const datasetTwo = data as Array<{ region: string, current_interest_rate: number }>;
